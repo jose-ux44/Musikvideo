@@ -11,24 +11,26 @@ body{
 /*MAIN TEXT WITH TITLES*/
 h1{
     color: white;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Anton', cursive;
+    font-size: 60px;
 }
 h3{
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Anton', cursive;
 }
 h4{
   color: white;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Anton', cursive;
+  font-size: 30px;
 }
 h2{
   color: white;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Anton', cursive;
 }
 h6{
   color: white;
   text-align: center;
   text-decoration: underline;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Anton', cursive;
 }
   /*LISTEN NOW BUTTON*/
   .block {
